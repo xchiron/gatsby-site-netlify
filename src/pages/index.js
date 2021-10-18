@@ -7,7 +7,7 @@ const Index = () => {
     <Layout>
       <Metadata title="home" description="This is my home page" />
       <h1>Home page</h1>
-      <h2>I'm Ibas, a teacher and a Gatsby.js developer</h2>
+      <h2>Mike Huang's Home Page</h2>
     </Layout>
   )
 }
