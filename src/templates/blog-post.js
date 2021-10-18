@@ -2,7 +2,7 @@ import React from "react"
 import { graphql } from "gatsby"
 import Layout from "../components/layout"
 import Img from "gatsby-image"
-import * as postStyles from "./blogPOst.module.scss"
+import * as postStyles from "./blogPost.module.scss"
 import Metadata from "../components/metadata"
 
 export const query = graphql`
